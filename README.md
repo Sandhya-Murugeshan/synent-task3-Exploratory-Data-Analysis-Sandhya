@@ -77,10 +77,20 @@ The goal is to perform Exploratory Data Analysis (EDA) on the Netflix dataset to
 
 ## 📈 Visualizations
 The project includes:
-- Count plots  
-- Bar charts  
-- Line graphs  
+- Count plots
+- <img width="1920" height="1080" alt="Screenshot 2026-05-07 091558" src="https://github.com/user-attachments/assets/b4551ab5-9e19-4c25-b13d-db5270a3ab0a" />
+  
+- Bar charts
+- <img width="1920" height="1080" alt="Screenshot 2026-05-07 091610" src="https://github.com/user-attachments/assets/329fcb60-45b0-4411-a239-699d5b5ac8b4" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-07 091627" src="https://github.com/user-attachments/assets/b6f6f4d1-2210-466f-ae1f-de9ff866d950" />
+
+ 
+- Line graphs
+- <img width="1920" height="1080" alt="Screenshot 2026-05-07 091620" src="https://github.com/user-attachments/assets/1d42bf25-8891-4e59-87f3-041e159c5325" />
+  
 - Heatmap  
+<img width="1920" height="1080" alt="Screenshot 2026-05-07 091635" src="https://github.com/user-attachments/assets/3c34b67d-fd37-4c67-81fb-df0ae018139c" />
 
 ---
 
